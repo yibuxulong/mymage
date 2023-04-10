@@ -2,19 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2023-04-08T10:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/cross-modal-learning/</loc>
+    <lastmod>2023-04-08T10:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication/cvm2023_cm_long_tail/</loc>
+    <lastmod>2023-04-08T10:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/image-classification/</loc>
+    <lastmod>2023-04-08T10:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/long-tailed-classification/</loc>
+    <lastmod>2023-04-08T10:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tag/privileged-information/</loc>
+    <lastmod>2023-04-08T10:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2023-04-08T10:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2023-04-08T10:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2023-04-08T10:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>/</loc>
     <lastmod>2023-03-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/publication-type/1/</loc>
-    <lastmod>2022-10-18T10:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>/tag/causal-inference/</loc>
-    <lastmod>2022-10-18T10:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/tag/image-classification/</loc>
     <lastmod>2022-10-18T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -23,18 +51,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/tag/out-of-distribution/</loc>
-    <lastmod>2022-10-18T10:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2022-10-18T10:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2022-10-18T10:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2022-10-18T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -55,10 +71,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>/publication/advm2021_adversarial_long_tail/</loc>
-    <lastmod>2021-10-18T10:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>/tag/long-tailed-classification/</loc>
     <lastmod>2021-10-18T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
