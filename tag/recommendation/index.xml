@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recommendation | Xiangxian Li</title>
-    <link>/tag/recommendation/</link>
-      <atom:link href="/tag/recommendation/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://yibuxulong.github.io/tag/recommendation/</link>
+      <atom:link href="https://yibuxulong.github.io/tag/recommendation/index.xml" rel="self" type="application/rss+xml" />
     <description>Recommendation</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 Sep 2022 10:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hue7628a4506ee8f93ddcffe5a13345021_4438_512x512_fill_lanczos_center_3.png</url>
+      <url>https://yibuxulong.github.io/media/icon_hue7628a4506ee8f93ddcffe5a13345021_4438_512x512_fill_lanczos_center_3.png</url>
       <title>Recommendation</title>
-      <link>/tag/recommendation/</link>
+      <link>https://yibuxulong.github.io/tag/recommendation/</link>
     </image>
     
     <item>
       <title>Personalized User Interface Elements Recommendation System</title>
-      <link>/publication/cgi2022_personalize_uie/</link>
+      <link>https://yibuxulong.github.io/publication/cgi2022_personalize_uie/</link>
       <pubDate>Fri, 16 Sep 2022 10:00:00 +0000</pubDate>
-      <guid>/publication/cgi2022_personalize_uie/</guid>
+      <guid>https://yibuxulong.github.io/publication/cgi2022_personalize_uie/</guid>
       <description>&lt;!-- 
 
 

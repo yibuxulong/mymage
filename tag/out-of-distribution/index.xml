@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Out-of-Distribution | Xiangxian Li</title>
-    <link>/tag/out-of-distribution/</link>
-      <atom:link href="/tag/out-of-distribution/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://yibuxulong.github.io/tag/out-of-distribution/</link>
+      <atom:link href="https://yibuxulong.github.io/tag/out-of-distribution/index.xml" rel="self" type="application/rss+xml" />
     <description>Out-of-Distribution</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 Oct 2022 10:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hue7628a4506ee8f93ddcffe5a13345021_4438_512x512_fill_lanczos_center_3.png</url>
+      <url>https://yibuxulong.github.io/media/icon_hue7628a4506ee8f93ddcffe5a13345021_4438_512x512_fill_lanczos_center_3.png</url>
       <title>Out-of-Distribution</title>
-      <link>/tag/out-of-distribution/</link>
+      <link>https://yibuxulong.github.io/tag/out-of-distribution/</link>
     </image>
     
     <item>
       <title>Meta-Causal Feature Learning for Out-of-Distribution Generalization</title>
-      <link>/publication/eccvw2022_balance_meta_causal/</link>
+      <link>https://yibuxulong.github.io/publication/eccvw2022_balance_meta_causal/</link>
       <pubDate>Tue, 18 Oct 2022 10:00:00 +0000</pubDate>
-      <guid>/publication/eccvw2022_balance_meta_causal/</guid>
+      <guid>https://yibuxulong.github.io/publication/eccvw2022_balance_meta_causal/</guid>
       <description>&lt;!-- 
 
 

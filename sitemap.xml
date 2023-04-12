@@ -2,91 +2,91 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/publication-type/1/</loc>
+    <loc>https://yibuxulong.github.io/publication-type/1/</loc>
     <lastmod>2023-04-08T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/cross-modal-learning/</loc>
+    <loc>https://yibuxulong.github.io/tag/cross-modal-learning/</loc>
     <lastmod>2023-04-08T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/publication/cvm2023_cm_long_tail/</loc>
+    <loc>https://yibuxulong.github.io/publication/cvm2023_cm_long_tail/</loc>
     <lastmod>2023-04-08T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/image-classification/</loc>
+    <loc>https://yibuxulong.github.io/tag/image-classification/</loc>
     <lastmod>2023-04-08T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/long-tailed-classification/</loc>
+    <loc>https://yibuxulong.github.io/tag/long-tailed-classification/</loc>
     <lastmod>2023-04-08T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/privileged-information/</loc>
+    <loc>https://yibuxulong.github.io/tag/privileged-information/</loc>
     <lastmod>2023-04-08T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/publication_types/</loc>
+    <loc>https://yibuxulong.github.io/publication_types/</loc>
     <lastmod>2023-04-08T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/publication/</loc>
+    <loc>https://yibuxulong.github.io/publication/</loc>
     <lastmod>2023-04-08T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://yibuxulong.github.io/tags/</loc>
     <lastmod>2023-04-08T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/</loc>
+    <loc>https://yibuxulong.github.io/</loc>
     <lastmod>2023-03-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/causal-inference/</loc>
+    <loc>https://yibuxulong.github.io/tag/causal-inference/</loc>
     <lastmod>2022-10-18T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/publication/eccvw2022_balance_meta_causal/</loc>
+    <loc>https://yibuxulong.github.io/publication/eccvw2022_balance_meta_causal/</loc>
     <lastmod>2022-10-18T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/out-of-distribution/</loc>
+    <loc>https://yibuxulong.github.io/tag/out-of-distribution/</loc>
     <lastmod>2022-10-18T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/graphic-user-interaction/</loc>
+    <loc>https://yibuxulong.github.io/tag/graphic-user-interaction/</loc>
     <lastmod>2022-09-16T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/publication/cgi2022_personalize_uie/</loc>
+    <loc>https://yibuxulong.github.io/publication/cgi2022_personalize_uie/</loc>
     <lastmod>2022-09-16T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/recommendation/</loc>
+    <loc>https://yibuxulong.github.io/tag/recommendation/</loc>
     <lastmod>2022-09-16T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/tag/adversarial-training/</loc>
+    <loc>https://yibuxulong.github.io/tag/adversarial-training/</loc>
     <lastmod>2021-10-18T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/publication/advm2021_adversarial_long_tail/</loc>
+    <loc>https://yibuxulong.github.io/publication/advm2021_adversarial_long_tail/</loc>
     <lastmod>2021-10-18T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/admin/</loc>
+    <loc>https://yibuxulong.github.io/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://yibuxulong.github.io/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/talk/example-talk/</loc>
+    <loc>https://yibuxulong.github.io/talk/example-talk/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/post/</loc>
+    <loc>https://yibuxulong.github.io/post/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>/event/</loc>
+    <loc>https://yibuxulong.github.io/event/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Xiangxian Li</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://yibuxulong.github.io/publication/</link>
+      <atom:link href="https://yibuxulong.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 08 Apr 2023 10:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hue7628a4506ee8f93ddcffe5a13345021_4438_512x512_fill_lanczos_center_3.png</url>
+      <url>https://yibuxulong.github.io/media/icon_hue7628a4506ee8f93ddcffe5a13345021_4438_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>/publication/</link>
+      <link>https://yibuxulong.github.io/publication/</link>
     </image>
     
     <item>
       <title>Cross-modal Learning Using Privileged Information for Long-tailed Image Classification</title>
-      <link>/publication/cvm2023_cm_long_tail/</link>
+      <link>https://yibuxulong.github.io/publication/cvm2023_cm_long_tail/</link>
       <pubDate>Sat, 08 Apr 2023 10:00:00 +0000</pubDate>
-      <guid>/publication/cvm2023_cm_long_tail/</guid>
+      <guid>https://yibuxulong.github.io/publication/cvm2023_cm_long_tail/</guid>
       <description>&lt;!-- 
 
 
@@ -42,9 +42,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Meta-Causal Feature Learning for Out-of-Distribution Generalization</title>
-      <link>/publication/eccvw2022_balance_meta_causal/</link>
+      <link>https://yibuxulong.github.io/publication/eccvw2022_balance_meta_causal/</link>
       <pubDate>Tue, 18 Oct 2022 10:00:00 +0000</pubDate>
-      <guid>/publication/eccvw2022_balance_meta_causal/</guid>
+      <guid>https://yibuxulong.github.io/publication/eccvw2022_balance_meta_causal/</guid>
       <description>&lt;!-- 
 
 
@@ -70,9 +70,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Personalized User Interface Elements Recommendation System</title>
-      <link>/publication/cgi2022_personalize_uie/</link>
+      <link>https://yibuxulong.github.io/publication/cgi2022_personalize_uie/</link>
       <pubDate>Fri, 16 Sep 2022 10:00:00 +0000</pubDate>
-      <guid>/publication/cgi2022_personalize_uie/</guid>
+      <guid>https://yibuxulong.github.io/publication/cgi2022_personalize_uie/</guid>
       <description>&lt;!-- 
 
 
@@ -98,9 +98,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Comparative Study of Adversarial Training Methods for Long-tailed Classification</title>
-      <link>/publication/advm2021_adversarial_long_tail/</link>
+      <link>https://yibuxulong.github.io/publication/advm2021_adversarial_long_tail/</link>
       <pubDate>Mon, 18 Oct 2021 10:00:00 +0000</pubDate>
-      <guid>/publication/advm2021_adversarial_long_tail/</guid>
+      <guid>https://yibuxulong.github.io/publication/advm2021_adversarial_long_tail/</guid>
       <description>&lt;!-- 
 
 
